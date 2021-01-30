@@ -682,3 +682,8 @@ color: #F0AD4E;
   }
 
 }
+
+ .nav a{
+            color: white !important;
+            font-size: 1.8em !important;
+        }
